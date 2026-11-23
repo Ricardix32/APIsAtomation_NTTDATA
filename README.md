@@ -1,3 +1,5 @@
+#Estudiante: Zee Ricardo Montenegro Baca
+
 # Automatización de Pruebas API REST - Swagger PetStore
 
 Proyecto integrador de automatización de servicios REST desarrollado con **Serenity BDD**, **Cucumber** y el patrón **Screenplay** sobre la API pública de [Swagger PetStore](https://petstore.swagger.io/).
